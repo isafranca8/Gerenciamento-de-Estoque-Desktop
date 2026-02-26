@@ -1,0 +1,1 @@
+Sistema realizado em grupo no curso técnico, onde transformamos o sisema web de gerenciamneto de controle de estoque em um sistema desktop. Usamos, JavaScript, python, tkinter, firebase Admin e outras ferramnetas e bibliotecas para tonar esse projeto funcional e integrado com o banco de dados.
