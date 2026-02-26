@@ -1,0 +1,53 @@
+=== RELATÓRIO DE ESTOQUE BAIXO ===
+
+Total de produtos com estoque baixo: 8
+==================================================
+
+1. jhg
+   Quantidade atual: 1 kg
+   Quantidade mínima: 8 kg
+   Déficit: 7 kg
+   Fornecedor: iuhih
+----------------------------------------
+2. teste
+   Quantidade atual: 6 un
+   Quantidade mínima: 0 un
+   Déficit: -6 un
+   Fornecedor: testee
+----------------------------------------
+3. pp
+   Quantidade atual: 4 un
+   Quantidade mínima: 0 un
+   Déficit: -4 un
+   Fornecedor: iii
+----------------------------------------
+4. kk
+   Quantidade atual: 4 kg
+   Quantidade mínima: 0 kg
+   Déficit: -4 kg
+   Fornecedor: juj
+----------------------------------------
+5. dgfh
+   Quantidade atual: 10 kg
+   Quantidade mínima: 2 kg
+   Déficit: -8 kg
+   Fornecedor: ggg
+----------------------------------------
+6. bbb
+   Quantidade atual: 8 un
+   Quantidade mínima: 0 un
+   Déficit: -8 un
+   Fornecedor: eu
+----------------------------------------
+7. Mariana
+   Quantidade atual: 2 un
+   Quantidade mínima: 2 un
+   Déficit: 0 un
+   Fornecedor: Tia camila
+----------------------------------------
+8. eu
+   Quantidade atual: 4 un
+   Quantidade mínima: 1 un
+   Déficit: -3 un
+   Fornecedor: eu
+----------------------------------------

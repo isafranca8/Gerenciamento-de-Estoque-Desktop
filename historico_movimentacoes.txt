@@ -1,0 +1,75 @@
+=== HISTÓRICO COMPLETO DE MOVIMENTAÇÕES ===
+
+Total de movimentações registradas: 13
+============================================================
+
+1. teste
+   Tipo: Entrada
+   Quantidade: 2
+   Data/Hora: Data desconhecida
+--------------------------------------------------
+2. dgfh
+   Tipo: Saída
+   Quantidade: 1
+   Data/Hora: Data desconhecida
+--------------------------------------------------
+3. Coisa
+   Tipo: Entrada
+   Quantidade: 2
+   Data/Hora: Data desconhecida
+--------------------------------------------------
+4. jhg
+   Tipo: Entrada
+   Quantidade: 1
+   Data/Hora: 11/12/2025 12:53:29
+--------------------------------------------------
+5. Mariana
+   Tipo: Saída
+   Quantidade: 3
+   Data/Hora: 11/12/2025 12:53:49
+--------------------------------------------------
+6. Coisa
+   Tipo: Entrada
+   Quantidade: 3
+   Data/Hora: 11/12/2025 13:08:27
+--------------------------------------------------
+7. Mariana
+   Tipo: Saída
+   Quantidade: 1
+   Data/Hora: 11/12/2025 13:11:25
+--------------------------------------------------
+8. dgfh
+   Tipo: Entrada
+   Quantidade: 2
+   Data/Hora: 11/12/2025 13:11:35
+--------------------------------------------------
+9. Loucura
+   Tipo: Entrada
+   Quantidade: 5
+   Data/Hora: 11/12/2025 16:12:28
+--------------------------------------------------
+10. Mariana
+   Tipo: Entrada
+   Quantidade: 1
+   Data/Hora: 11/12/2025 16:12:46
+--------------------------------------------------
+11. Coisa
+   Tipo: Entrada
+   Quantidade: 2
+   Data/Hora: 11/12/2025 16:21:45
+--------------------------------------------------
+12. Loucura
+   Tipo: Entrada
+   Quantidade: 50
+   Data/Hora: 11/12/2025 16:24:29
+--------------------------------------------------
+13. Loucura
+   Tipo: Saída
+   Quantidade: 55
+   Data/Hora: 11/12/2025 16:39:15
+--------------------------------------------------
+
+=== ESTATÍSTICAS ===
+Total de entradas: 9
+Total de saídas: 4
+Saldo (Entradas - Saídas): 5
